@@ -26,3 +26,24 @@ You will need to:
 5. We are evaluating solutions based on the architecture and quality of the deployment. Show us just how beautiful, clean and pragmatic your code can be.
 
 6. Once your solution is ready, please send us the link of your project.
+
+### Prerequisites
+Ubuntu 14.04 has to be running and it comes with docker and docker-compose installed.
+
+To install docker visit https://docs.docker.com/engine/installation/linux/ubuntu/#recommended-extra-packages-for-trusty-1404
+
+To install docker-compose visit https://docs.docker.com/compose/install/
+
+### How it works
+
+1. Download the start.sh file and the docker-compose.yml file
+2. Move in your working directory
+```
+mv some/directory/
+```
+3. Run start.sh
+```
+sh start.sh
+```
+4. Go to http://127.0.0.3:8080 and type the blog name and user details
+

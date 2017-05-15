@@ -36,11 +36,12 @@ To install docker-compose visit https://docs.docker.com/compose/install/
 
 ### How it works
 
-1. Download the start.sh file and the docker-compose.yml file
-2. Move in your working directory
+1. Move in your working directory
 ```
 mv some/directory/
 ```
+2. Download the start.sh file and the docker-compose.yml file
+
 3. Run start.sh
 ```
 sh start.sh
