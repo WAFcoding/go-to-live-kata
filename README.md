@@ -36,7 +36,7 @@ To install docker-compose visit https://docs.docker.com/compose/install/
 
 ### How it works
 
-1. Move in your working directory
+1. Move into your working directory
 ```
 mv some/directory/
 ```
